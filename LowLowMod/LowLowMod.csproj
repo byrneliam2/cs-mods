@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Source\LLModBase.cs" />
+    <Compile Include="Source\LLRestrictor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ICities">
