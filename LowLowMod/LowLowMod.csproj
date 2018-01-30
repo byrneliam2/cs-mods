@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Source\LowLowMod.cs" />
+    <Compile Include="Source\LLModBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ICities">
